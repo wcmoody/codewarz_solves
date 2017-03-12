@@ -14,12 +14,12 @@ gains = [2,1,6,3,-2,-1,-6,-3]
 vals = {}
 
 for s,g in zip(strokes,gains):
-	vals[s] = g
+    vals[s] = g
 
 level = 0
 with open(sys.argv[1],'r') as myinput:
-		for line in myinput:
-				matches = pattern.findall(line.strip())
-				for match in matches:
-					level += vals[match]
+    for line in myinput:
+        matches = pattern.findall(line.strip())
+        for match in matches:
+            level += vals[match]
 print level

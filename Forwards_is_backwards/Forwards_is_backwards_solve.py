@@ -7,8 +7,8 @@ if len(sys.argv) < 2:
     exit(usage)
 
 with open(sys.argv[1],'r') as myinput:
-		for line in myinput:
-				word = line.strip()
-				if word == word[::-1]:
-						print "True"
-				else: print "False"
+    for line in myinput:
+        word = line.strip()
+        if word == word[::-1]:
+            print "True"
+        else: print "False"
