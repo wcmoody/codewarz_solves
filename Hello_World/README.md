@@ -3,16 +3,16 @@
 ## Sample Input:
 
 ```
-#!/usr/bin/env python
+this program takes no inputs
 ```
 ## Expected Output:
 
 ```
-this program takes no inputs
+$ ./Hello_world.py
+Hello, World!
 ```
 ## Expected SHA1 Hash:
 
 ```
-$ ./Hello_world.py
-Hello, World!
+0a0a9f2a6772942557ab5355d76af442f8f65e01
 ```
