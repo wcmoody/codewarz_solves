@@ -1,0 +1,19 @@
+# Mixing_hashes_is_fun
+
+## Sample Input:
+
+```
+$ cat samplefile
+abcd4ecedfd6fa0cfc23032984215735b60f068fe6271e992403fb1b7279d5f1deb021ba891 a542e9b744bedcfdf5633aec1f9ebfdc9d5d4956416f57f6 1ddcb9eaeaea377667b8420706ce655b5a77537e4a8ade89 e4c15846e1cf175d5089fa666606aa0da790262e5bfadead3e18d3a8cfc566543ffc7cb4c190d ddf7ff5ebd9d66ce161466c1c0262430fa04de32b0e420ee3f489e2e2112e386 11807c07361cac1d70bad7fbc9fd76097b22d74686a422c8f7eb2a43d1daf1de2989c4b0d218b255 d7c60de8c2a2b444153833d1ea46df69764f2ece8e33199f8d787bf39cc51ebb406f15480c7e780e e049bd056f936d1b39b704abcf824eae604d1f094c28f5da32dbbdfed4b60d6a29f449411fd45cb3 2f94d4dcae3c2a95cc286f78bbad8c49d023cfc6c82602e2826c61f12a7912be41e5e6e8c77263915da9fce1f5b5ef70 e4d1ddc6ab9a2dacb5bc93a340a8e8a2c0326aa6295f6b41fc88203a047475c3aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+```
+## Expected Output:
+
+```
+$ ./solve.py /path/to/samplefile
+knowledge is a weapon arm yourself well before you ride forth to battle
+```
+## Expected SHA1 Hash:
+
+```
+bcbe07f62b8638d2bef79ec24fe2518629d53c6b
+```
