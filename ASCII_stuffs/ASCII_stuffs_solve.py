@@ -8,8 +8,7 @@ if len(sys.argv) < 2:
 
 output = ''
 with open(sys.argv[1],'r') as myinput:
-		for line in myinput:
-				for byte in line.strip().split(' '):
-					output += byte.decode('hex')
+    for line in myinput:
+        for byte in line.strip().split(' '):
+            output += byte.decode('hex')
 print output
-					 
