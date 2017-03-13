@@ -1,3 +1,2 @@
-$ cat samplefil
 abcdefg hiabcd
 D DD

@@ -1,2 +1,1 @@
-$ ls /path/to/giffy0mc.gif
 ath/to/giffy0mc.gif

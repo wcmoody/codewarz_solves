@@ -1,4 +1,3 @@
-$ cat non_pep0.py
 #!/usr/bin/env python3
 
 import re, string

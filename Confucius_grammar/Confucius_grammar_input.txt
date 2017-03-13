@@ -1,4 +1,3 @@
-$ cat /path/to/somefile.txt
 It dOEs nOt mAttEr hOw slOwly yOU GO SO lOng As yOU dO nOt stOp.
 OUr grEAtEst glOry is nOt In nEvEr fAllIng, bUt In rIsIng EvEry tImE wE fAll.
 I hEAr And i fOrgEt. I sEE And I rEmEmbEr. I dO And I UndErstAnd.

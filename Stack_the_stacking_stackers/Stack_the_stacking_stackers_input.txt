@@ -1,4 +1,3 @@
-$ cat /path/to/somefile.txt
 000111
 
 111000

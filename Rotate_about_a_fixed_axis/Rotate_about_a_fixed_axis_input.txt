@@ -1,3 +1,2 @@
-$ cat /path/to/somefile.txt
 [219, 214, 210, 229, 221, 230, 228, 210]
 thisiste________

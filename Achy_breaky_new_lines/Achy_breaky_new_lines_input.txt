@@ -1,4 +1,3 @@
-$ cat /path/to/somefile.txt
 But don't tell my new lines
 
 My achy breaky new lines

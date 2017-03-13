@@ -1,4 +1,3 @@
-$ cat samplefil
 inaag vOre nad vo
 omemtn I erilev ht
 iwhtni I ma ngbeiar hte ubdrn

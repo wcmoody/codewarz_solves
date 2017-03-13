@@ -1,4 +1,3 @@
-$ cat /path/to/somefile.txt
 2459600
 2340
 112340

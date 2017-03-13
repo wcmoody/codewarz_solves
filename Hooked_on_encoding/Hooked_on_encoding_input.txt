@@ -1,4 +1,3 @@
-$ cat /path/to/somefile.txt
 India charlie-alpha-november'tango sierra-tango-oscar-papa tango-hotel-india-sierra foxtrot-echo-echo-lima-india-november-golf
 Delta-echo-echo-papa india-november-sierra-india-delta-echo oscar-foxtrot mike-echo
 Golf-india-romeo-lima, yankee-oscar-uniform juliet-uniform-sierra-tango delta-oscar-november'tango romeo-echo-alpha-lima-india-zulu-echo

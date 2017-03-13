@@ -1,4 +1,3 @@
-$ cat samplefil
 Madonna: good
 Robert Downey Jr.: good
 Jackie Chan - good

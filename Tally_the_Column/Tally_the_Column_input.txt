@@ -1,4 +1,3 @@
-$ cat spreadsheet1.csv 
 Sibers,GBs,Little_Sibers,Wifis,Beacons,More_Sibers
 22,0.402729289,0.181476912,0.956364076,25,33
 10,0.539636766,0.65710394,0.955461237,14,13

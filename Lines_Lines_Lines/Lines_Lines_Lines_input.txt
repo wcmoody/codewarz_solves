@@ -1,4 +1,3 @@
-$ cat sample.txt
 this is one lin
 
 this

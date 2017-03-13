@@ -1,4 +1,3 @@
-$ cat /path/to/somefile.txt
 MAC,SSID,AuthMode,FirstSeen,Channel,RSSI,LAT,LON,AltitudeMeters,AccuracyMeters,Ty
 68:7f:74:aa:f2:60,niceoak,[wpa-psk-tkip+ccmp][wpa2-psk-tkip+ccmp][wps],9/9/2012 14:24,1,-89,41.4779536,-74.06291007,114.8,0,wifi
 00:1c:10:66:8a:02,dumacwpa,[wpa2-psk-ccmp],12/31/1969 19:00,6,-88,41.5027919,-74.06903607,0,157.556015,wifi

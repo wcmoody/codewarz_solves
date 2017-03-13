@@ -1,4 +1,3 @@
-$ cat sample1.txt 
 this is only a test line with an ip address of 16777216
 
 No. Time Source Destination Protocol Info

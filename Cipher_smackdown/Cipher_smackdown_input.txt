@@ -1,2 +1,1 @@
-$ ls /path/to/input_data_1.enc
 ath/to/input_data_1.enc

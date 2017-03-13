@@ -1,4 +1,3 @@
-$ cat sample.txt
 0 0
 2 1
 3 2

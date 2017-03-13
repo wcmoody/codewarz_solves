@@ -1,4 +1,3 @@
-$ cat tictactoe_input1.txt 
 {
   "R1": {
     "X": [

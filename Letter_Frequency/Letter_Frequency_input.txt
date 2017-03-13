@@ -1,2 +1,1 @@
-$ cat /path/to/somefile2.txt
 'Two plus two equals four. wwwwwwww'

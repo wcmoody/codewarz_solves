@@ -1,4 +1,3 @@
-$ cat /path/to/somefile.txt
 a
 dwo
 blejum

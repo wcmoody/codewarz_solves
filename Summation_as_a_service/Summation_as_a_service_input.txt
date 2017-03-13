@@ -1,3 +1,2 @@
-$ cat /path/to/somefile.txt
 10 4
 -3 10

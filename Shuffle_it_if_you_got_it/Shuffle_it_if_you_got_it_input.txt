@@ -1,4 +1,3 @@
-$ cat /path/to/somefile.txt
 xylophones q-tips zeppelins jumpropes
 
 artridges turtledoves frenchhens callingbirds goldenrings geese swans milkers dancers leapers pipers drummers

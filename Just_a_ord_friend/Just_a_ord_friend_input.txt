@@ -1,4 +1,3 @@
-$ cat sample.txt
 So I took blah - blah's word for it at this tim
  I thought just havin' a friend couldn't be no crim
   'Cause I have  friends and that's a fact

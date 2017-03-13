@@ -1,4 +1,3 @@
-$ cat input0.csv 
 miles_start, miles_stop, gallons, ca
 12042,12340,25,Rapto
 39558,39898,16,Highland

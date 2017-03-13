@@ -1,2 +1,1 @@
-$ cat /path/to/somefile.txt
 a6cac6e4cae8409acae6e6c2ceca

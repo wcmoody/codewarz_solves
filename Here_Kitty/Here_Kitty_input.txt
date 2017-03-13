@@ -1,4 +1,3 @@
-$ cat /path/to/somefile.txt
 this is a fil
 it has
 multiple lines that

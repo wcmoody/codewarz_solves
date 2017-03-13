@@ -1,2 +1,1 @@
-$ ./ip_truthiness.pl /path/to/ip_finder_and_validator_data1.txt
 
