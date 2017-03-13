@@ -1,5 +1,11 @@
 # Cyber_Attack_Game_Game
 
+# Description
+
+<p>You wrote the grading function, now beat the game..... a couple of times.... in a row.
+<br/>
+Example: `nc websandsocks.codewarz.ninja 9011`</p>
+
 ## Sample Input:
 
 ```

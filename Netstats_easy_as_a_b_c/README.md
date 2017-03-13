@@ -1,5 +1,11 @@
 # Netstats_easy_as_a_b_c
 
+# Description
+
+<p>Your bosses have asked you to write a parsing program for netstat outputs. The host team has gone around and and collected outputs from the command "netstat -punta" on various machines. They want your program to take multiple command line arguments to parse the output file. They also want the output displayed in two sections, one with allowed/searching protocol and ports from the command line up top. Also anything that doesn't match the command line search options to be shown below. Pay really close attention to the examples (devil is in the details) as they give a clear indication of what is expected of your program. Example input file can be located <a href="/static/downloads/netstat_example1.txt">Here</a>
+<br/><br/>
+</p>
+
 ## Sample Input:
 
 ```

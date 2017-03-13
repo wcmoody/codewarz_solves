@@ -1,5 +1,9 @@
 # Junk_in_my_trunk
 
+# Description
+
+<p>It looks like some sort of data corruption happened and the siburs appended some extra characters to the end of the words. Write a program to fix the extra characters.</p>
+
 ## Sample Input:
 
 ```

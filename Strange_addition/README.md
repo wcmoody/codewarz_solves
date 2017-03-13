@@ -1,5 +1,10 @@
 # Strange_addition
 
+# Description
+
+<p>Simply add the numbers together on each line, also adding how many numbers where on each line.
+</p>
+
 ## Sample Input:
 
 ```

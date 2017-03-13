@@ -1,5 +1,9 @@
 # Cerberus
 
+# Description
+
+<p>You have tracked an intrusion back to a C2 listener. Comply with its instructions to dump the flag.</p>
+
 ## Sample Input:
 
 ```

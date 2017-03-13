@@ -1,5 +1,14 @@
 # Sir_hash_a_lot
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+<strong>Admin Note:</strong> On the server the english dictionary file is located at /usr/share/dict/american-english<br/><br/>
+So your program can use that file path location in your uploaded program<br/><br/>
+From the example hashes find the words that match the hash from the <a href="/static/downloads/american-english">(/usr/share/dict/american-english)</a>, maybe the hashes are shifted?
+<strong>ADMIN NOTES:</strong> About this challenge, due to the fact these are VM's and have limited memory. <strong>"DO NOT"</strong> attempt to pre build the entire possible combinations of all the hash types and all possible shifts. Do one at a time. We are able to get the the solve time down to 25 seconds on the VM. That's with solving both the example data set, and the server side data set. Locally on our laptops it took about 1 minute combined to solve both data sets. If your program cannot complete the example data set in under 1 min. Please do not upload your program.
+<br/><br/>Challenge author: funtimes</p>
+
 ## Sample Input:
 
 ```

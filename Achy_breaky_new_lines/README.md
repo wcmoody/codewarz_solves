@@ -1,5 +1,10 @@
 # Achy_breaky_new_lines
 
+# Description
+
+<p>The weird country singer with a mullet can't figure out how to get rid of all these extra lines between his song lyrics. He has asked that you write a program that gets rid of all the extra new lines, so he can save on printer paper.
+</p>
+
 ## Sample Input:
 
 ```

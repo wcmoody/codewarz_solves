@@ -1,5 +1,11 @@
 # Making_Lists_Hard
 
+# Description
+
+<p>Take the appropriate input file and process it into a list. If the line has a single element, add it as a single element to a new list. If the line contains multiple elements then write those elements of the line into their own list and then add that list to the final list.
+Finally, someone seems to have added characters and words to the files, be sure to ignore those entries, also we do not care about empty lists...
+</p>
+
 ## Sample Input:
 
 ```

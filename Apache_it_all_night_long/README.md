@@ -1,5 +1,10 @@
 # Apache_it_all_night_long
 
+# Description
+
+<p>As if the original challenge apache_log_parser wasn't bad enough, now this guy only wants to see what web browser user agents that are hitting his website. There has also been a change to the ordering from most hits instead of first, now they are last. Lastly the histogram is slightly different? Can you write a program to mimic the output? Be mindful that the length of the justify has to grow with the largest amount of stars. IE: if you have 10 stars you need to justify for 10 spaces, or if you have 30 stars, you need to justify for 30 spaces.
+<br/><br/><a href="/static/downloads/Apache_it_all_night_long_input1.log">Download the sample data file here</a></p>
+
 ## Sample Input:
 
 ```

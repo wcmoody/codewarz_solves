@@ -1,5 +1,11 @@
 # Here_Kitty
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Read input from a file and print that content directly back out. (WITHOUT CALLING `cat`!)
+</p>
+
 ## Sample Input:
 
 ```

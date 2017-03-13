@@ -1,5 +1,11 @@
 # Chattribution
 
+# Description
+
+<p>We need to attribute some usernames to their IP address from this rogue chat server we located. Carve them out of the PCAP so we can add this info to our forensic stuffs.<br/>
+<em>Example pcap <a href="/static/downloads/chat_1.pcap">here</a></em>
+</p>
+
 ## Sample Input:
 
 ```

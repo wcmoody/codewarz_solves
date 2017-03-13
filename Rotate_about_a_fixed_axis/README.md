@@ -1,5 +1,10 @@
 # Rotate_about_a_fixed_axis
 
+# Description
+
+<p>You have found some partially decoded text and some numbers that seem like they mean something. The only hint is some statement about the list of numbers be half the size of the final string, equal lengths, and rotating about a moment arm...
+</p>
+
 ## Sample Input:
 
 ```

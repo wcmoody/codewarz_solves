@@ -1,5 +1,10 @@
 # Hooked_on_encoding
 
+# Description
+
+<p>We found this text file on a compromised server. It appears that it is an intercepted communication from a military radio channel with voice to text translation. Write a program to translate the words from their military phonetic spelling back to the original message.
+</p>
+
 ## Sample Input:
 
 ```

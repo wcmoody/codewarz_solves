@@ -1,5 +1,9 @@
 # Mixing_hashes_is_fun
 
+# Description
+
+<p>You can see from the input that it appears to be some various forms of hashing. Some of it looks like the full hash of a word, or it's half of the a hash. Possibly two half hashes are mixed together? Can you develop a way to decode these half/full hashes and resolve them to their original words?</p>
+
 ## Sample Input:
 
 ```

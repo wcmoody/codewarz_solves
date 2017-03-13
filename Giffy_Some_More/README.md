@@ -1,5 +1,9 @@
 # Giffy_Some_More
 
+# Description
+
+<p>It would seem that some script-kiddy gained access to your system and left a calling card or two to taunt you. See if you can decode the image and print the flag that is hidden in the image. <br/><br/><em>Example Image: <a href="/static/downloads/giffy0mc.gif">giffy0mc.gif</a></em></p>
+
 ## Sample Input:
 
 ```

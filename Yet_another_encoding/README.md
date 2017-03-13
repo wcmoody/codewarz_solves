@@ -1,5 +1,9 @@
 # Yet_another_encoding
 
+# Description
+
+<p>The script-kiddies keep trying to sneak data outside of your network with his own encoding schemes as to not get caught by normal IDS sensors. Can you break his encoding scheme and decode the message?</p>
+
 ## Sample Input:
 
 ```

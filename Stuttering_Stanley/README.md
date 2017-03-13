@@ -1,5 +1,10 @@
 # Stuttering_Stanley
 
+# Description
+
+<p>So this little kid in the movie has a stuttering problem, and somebody performed a voice to text translation of his words. Can you correct the output from his voice to text, and remove his stutters?
+</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,11 @@
 # Forwards_is_backwards
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Write a program that receives a single word as input and checks to see if the word is a palindrome (i.e. words that look the same written backwards).
+</p>
+
 ## Sample Input:
 
 ```

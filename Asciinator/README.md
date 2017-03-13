@@ -1,5 +1,9 @@
 # Asciinator
 
+# Description
+
+<p>Come on down and check out the new asciinator service, serving up healthy chunks of the late 90s internets and absolutely garbage you may see in signature blocks. Hit the listener and do what it says to dump the flag.</p>
+
 ## Sample Input:
 
 ```

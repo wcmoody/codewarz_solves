@@ -1,5 +1,9 @@
 # Quad_math
 
+# Description
+
+<p>Given a text file with a set of 4 numbers per line, add the four numbers together and print their total. If all the numbers on the line are the same, then add their total and multiply that total by four and print that value.</p>
+
 ## Sample Input:
 
 ```

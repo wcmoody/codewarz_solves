@@ -1,5 +1,11 @@
 # Pop_a_pcap
 
+# Description
+
+<p>Ze Germans have been brute forcing our users passwords. We are too incompetent to figure out how to mitigate the attack so we will just tell whatever user who had a dumb password that he needs to change it. Parse the pcap and print out the username of the victim and whatever secret information was stolen (hint: it's the flag).<br/>
+<em>Example pcap <a href="/static/downloads/z_comp_bruted.pcap">Here</a></em>
+</p>
+
 ## Sample Input:
 
 ```

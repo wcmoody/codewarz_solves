@@ -1,5 +1,9 @@
 # Lines_Lines_Lines
 
+# Description
+
+<p>Your boss handed you a simple task, just replace the "newlines" from files provided files with spaces...</p>
+
 ## Sample Input:
 
 ```

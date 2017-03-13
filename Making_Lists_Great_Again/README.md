@@ -1,5 +1,9 @@
 # Making_Lists_Great_Again
 
+# Description
+
+<p>Another simple script. Read the lists out of the text file and print them like the examples below. If you see multiple zeros in one element and only zeros, collapse them down to a single zero.</p>
+
 ## Sample Input:
 
 ```

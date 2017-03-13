@@ -1,5 +1,10 @@
 # Binary_mafs
 
+# Description
+
+<p>There are several binary numbers on each line. Add up the binary numbers on each line and give the correct sum.
+</p>
+
 ## Sample Input:
 
 ```

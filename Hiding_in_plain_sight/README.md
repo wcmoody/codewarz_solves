@@ -1,5 +1,11 @@
 # Hiding_in_plain_sight
 
+# Description
+
+<p>We believe some Evil hacker-types are using this website to send messages out to their cohorts somehow. We haven't been able to dig any useful data from it yet, but maybe you can find something meaningful?<br/>
+<br/>
+</p>
+
 ## Sample Input:
 
 ```

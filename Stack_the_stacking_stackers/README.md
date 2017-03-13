@@ -1,5 +1,13 @@
 # Stack_the_stacking_stackers
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+You need to write a program that can validate input and return True based on two criteria and False if it violates either criteria:<br/>
+1. There are an identical number of 0's and 1'.<br/>
+2. That for every 0, there is a single 1 that appears after it.
+</p>
+
 ## Sample Input:
 
 ```

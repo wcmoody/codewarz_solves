@@ -1,5 +1,11 @@
 # Word_tumbler
 
+# Description
+
+<p>Unscramble the words given in the file. There may be more than one right answer per word
+Don't print the same word twice per jumble and use all the letters.
+</p>
+
 ## Sample Input:
 
 ```

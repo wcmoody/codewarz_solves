@@ -1,5 +1,11 @@
 # Pure_luck
 
+# Description
+
+<p>Connect to the server and guess the lucky number to get a flag!<br/>
+<em>Test server located at websandsocks.codewarz.ninja:9009</em>
+</p>
+
 ## Sample Input:
 
 ```

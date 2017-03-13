@@ -1,5 +1,9 @@
 # Multiplicity
 
+# Description
+
+<p>You are given a text file with an unknown amount of numbers, separated by spaces, per line. Simply multiply all the numbers on the line and print their total.</p>
+
 ## Sample Input:
 
 ```

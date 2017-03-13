@@ -1,5 +1,12 @@
 # Dig_Deeper
 
+# Description
+
+<p>After wading through hundreds of images looking for embedded messages, you come across this gem...
+Find and print the flag from this jpg. Just remember that sometimes you have to dig a little deeper to find what you want...
+<br/>
+<em>Download the sample file <a href="/static/downloads/test_out.jpg">here.</a></em></p>
+
 ## Sample Input:
 
 ```

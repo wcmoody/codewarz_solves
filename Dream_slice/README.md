@@ -1,5 +1,11 @@
 # Dream_slice
 
+# Description
+
+<p>Can you recognize the pattern of the manipulated text and correct it?
+<br/>
+<strong>Note:</strong> You don't have to worry about words 8 chars or over. And do you see a pattern of how the word order was changed per line?</p>
+
 ## Sample Input:
 
 ```

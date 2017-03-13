@@ -1,5 +1,10 @@
 # Ginsu_slicing
 
+# Description
+
+<p>It appears that the text is sliced around somehow. Write a program to slice the words in the correct way.
+</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,9 @@
 # Mission_impossibru
 
+# Description
+
+<p>Those evil haxXORs are on the run. We located their last c2 node. Decrypt the comms so we can catch them and start the waterboarding! I'll have them fire up GITMO in the meantime.<br/><br/>We have managed to get eyes on some of the codebase for the encrypter.. Couldn't make out much but a couple of custom function names that were being called.</p>
+
 ## Sample Input:
 
 ```

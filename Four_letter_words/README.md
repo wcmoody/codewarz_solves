@@ -1,5 +1,13 @@
 # Four_letter_words
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+<strong>Admin Note:</strong> On the server the english dictionary file is located at /usr/share/dict/american-english<br/><br/>
+So your program can use that file path location in your uploaded program<br/><br/>
+Given a file with a bunch of hashes in it (sha what?), find and print the 4 character english-american <a href="https://codewarz.ninja/static/downloads/american-english.txt">(/usr/share/dict/american-english)</a> words that correspond to each. If it's not a word, don't print it.
+</p>
+
 ## Sample Input:
 
 ```

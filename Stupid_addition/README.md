@@ -1,5 +1,11 @@
 # Stupid_addition
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Well it seems we have been tasked with adding numbers from a text file, however it seems Ray Charles was the data entry clerk typing on the keyboard and couldn't see the typos he made on the input data. Develop a program that attempts to add two numbers from a line and give the correct output. Be sure to gracefully deal with non-standard input.
+</p>
+
 ## Sample Input:
 
 ```

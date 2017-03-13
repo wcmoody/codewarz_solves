@@ -1,5 +1,10 @@
 # Hiding_the_hashes
 
+# Description
+
+<p>You have found a seemingly random text file that may have 32 digit hashes of known bad .exe file names somewhere in the file. Find all of the 32 digit hashes in the file and then determine if the hash is that of an actual file name. The basenames all come from /usr/share/dict/american-english. Be sure to print them in the following format by filename, a-z.
+</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,9 @@
 # Cyber_haiku_dictionary
 
+# Description
+
+<p>Someone dropped our cyber haiku dictionary and the order in which they were stored is all messed up. Can you fix the order dictionary and print them out in the right order?</p>
+
 ## Sample Input:
 
 ```

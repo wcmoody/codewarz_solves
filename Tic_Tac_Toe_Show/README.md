@@ -1,5 +1,9 @@
 # Tic_Tac_Toe_Show
 
+# Description
+
+<p>You've been asked to write a script that determines the results of an online Tic Tac Toe game. The game records the results in JSON format. The turn order does not matter - just print out the final result game board and who the winner was as shown in the example below or <strong>print Draw!</strong> if no one wins. You will need to read the input from a file.</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,10 @@
 # Simple_cipher
 
+# Description
+
+<p>Decode the cipher. It's totes simple. Forget punctuation and just print the words as they appear.
+</p>
+
 ## Sample Input:
 
 ```

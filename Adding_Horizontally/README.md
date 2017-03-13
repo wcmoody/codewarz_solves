@@ -1,5 +1,9 @@
 # Adding_Horizontally
 
+# Description
+
+<p>For this challenge, read the numbers in from the text file. You will then add the first and the last line together, then the second and second to last line, etc... If there are an odd number of lines then just print the middle line value last. Be sure to follow the output format.</p>
+
 ## Sample Input:
 
 ```

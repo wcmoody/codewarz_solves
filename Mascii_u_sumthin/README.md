@@ -1,5 +1,10 @@
 # Mascii_u_sumthin
 
+# Description
+
+<p>Our ordinal generator is on the fritz and is spewing out all sorts of numbers, sadface.jpg. There appears to be 4 different types??? I thought numbers were numbers, I don't get it. Can you print out the ascii that corresponds to the input because I don't know how to number.
+</p>
+
 ## Sample Input:
 
 ```

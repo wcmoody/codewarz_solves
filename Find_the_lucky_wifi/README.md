@@ -1,5 +1,11 @@
 # Find_the_lucky_wifi
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Your good friend <a href="https://www.youtube.com/watch?v=KEkrWRHCDQU" target="_blank">Hackerman</a> found a novel technique to exploit linksys routers. He has asked you for your support in sorting through his large WigleWifi dumps and geographically locating these routers. He wants you to only print the mac, ssid, lat, lon, and time seen from each entry. He also wants the entries to be sorted with the newest entries at the top. Finally, he modified his wireless collection asset so that it does not store the columns in any particular order and in doing so it sometimes does not capture time correctly (i.e. it defaults to 1969). You should probably throw those entries out. Finally, he walks away mumbling something about GSM entries providing spurious mac addresses and how they need to be dealt with...
+</p>
+
 ## Sample Input:
 
 ```

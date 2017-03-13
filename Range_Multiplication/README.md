@@ -1,5 +1,9 @@
 # Range_Multiplication
 
+# Description
+
+<p>You are given a file with 3 numbers per line, separated by spaces. For each line in the input file, print a list of all numbers from the 1st to the 3rd number (non-inclusive) that are multiples of both the first and second number.</p>
+
 ## Sample Input:
 
 ```

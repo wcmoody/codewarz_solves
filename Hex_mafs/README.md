@@ -1,5 +1,10 @@
 # Hex_mafs
 
+# Description
+
+<p>There are several hex numbers on each line. Get the correct sum of all the hex values on each line.
+</p>
+
 ## Sample Input:
 
 ```

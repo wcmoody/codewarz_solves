@@ -1,5 +1,12 @@
 # Hash_me_if_you_can
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called. Remember that the input will be one line with a period denoting the end of the string you need to find (but it is not part of the string).<br/><br/>
+You will be given a string with missing characters (missing characters will already be replaced with an _) and the sha1 hash of the final string all in one line (the period is not part of the string you need to find).
+Find the value of the final string. There will be four missing chars and will be composed of any combination of lower case letters, digits, punctuation and whitespace.
+</p>
+
 ## Sample Input:
 
 ```

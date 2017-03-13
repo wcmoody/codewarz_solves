@@ -1,5 +1,9 @@
 # Letter_Frequency_v2
 
+# Description
+
+<p>We showed our boss the orginal letter freq challenge and he said it looked like a 5th grader designed it. He wants to see percent signs and sorting that makes much more sense. Write a program to mimic the example output below. <strong>Note:</strong> Notice anything in particular on how it's sorted? Also don't worry about counting/printing the punctuation or newlines.</p>
+
 ## Sample Input:
 
 ```

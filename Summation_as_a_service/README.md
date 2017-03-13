@@ -1,5 +1,11 @@
 # Summation_as_a_service
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Write a program, which takes two distinct integers separated by space as input and prints the sum of all the integers between them, including the two given numbers. Note that the numbers can appear in either order.
+</p>
+
 ## Sample Input:
 
 ```

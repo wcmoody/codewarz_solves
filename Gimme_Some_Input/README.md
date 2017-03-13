@@ -1,5 +1,9 @@
 # Gimme_Some_Input
 
+# Description
+
+<p>You've come across a curious socket listener that accepts arbitrary input. Your flag is in the local directory. Convince the listener to cough up your flag.</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,10 @@
 # Csv_for_the_win
 
+# Description
+
+<p>Simply read in the csv lines from a file and sum all of the numbers in the csv lines and print the result.
+</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,11 @@
 # Twisted_Letterings
 
+# Description
+
+<p>One of your peers wrote a sweet script that twists letters from an input string and writes them out to a file.
+Your challenge is to untwist the collection of letters and print everything in clean format.
+</p>
+
 ## Sample Input:
 
 ```

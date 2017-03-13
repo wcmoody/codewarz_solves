@@ -1,5 +1,9 @@
 # Sunday_Morning_Jumble
 
+# Description
+
+<p>Pretty easy, just hit the listener and do what it asks. Like hanging out on a lazy Sunday morning...</p>
+
 ## Sample Input:
 
 ```

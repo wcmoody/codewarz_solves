@@ -1,5 +1,9 @@
 # Naughty_or_nice
 
+# Description
+
+<p>Santa has asked if you can help him parse his list naughty or nice list of people for his upcoming christmas delivery. It looks as though the elves that were writing down the names of those naughty or nice didn't keep the same format. Can you give santa a total count of how many nice and how many naughty people are on his list?</p>
+
 ## Sample Input:
 
 ```

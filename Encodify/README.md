@@ -1,5 +1,15 @@
 # Encodify
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.
+<br/><br/>
+<strong>Admin Note:</strong> On the server the english dictionary file is located at /usr/share/dict/american-english<br/>check plaintext first ;)<br/>
+So your program can use that file path location in your uploaded program<br/><br/>
+Each word of a line in an input file is either base64-encoded, rot-13 encoded, both, or neither in no particular order. Decode the message and return all english-language (human-readable) words
+<a href="https://codewarz.ninja/static/downloads/american-english.txt">(/usr/share/dict/american-english)</a>. Any numbers should be left as they are.
+</p>
+
 ## Sample Input:
 
 ```

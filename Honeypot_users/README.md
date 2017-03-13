@@ -1,5 +1,10 @@
 # Honeypot_users
 
+# Description
+
+<p>Your boss has given you the task of finding all username &amp; password attempts on the honeypot in the company DMZ. Pay careful attention to the output format/ordering of the data. Also take note that if the username or password attempt has a "/" in it, then you must discard that entry.<br/><br/>
+Example files found <a href="/static/downloads/honeypot_examples_logs.tgz">here</a></p>
+
 ## Sample Input:
 
 ```

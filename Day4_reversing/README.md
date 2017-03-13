@@ -1,5 +1,15 @@
 # Day4_reversing
 
+# Description
+
+<p>Reverse the algorithm and feed this binary what it needs to print the flag
+<br/><br/>
+Example binary at <a href="/static/downloads/day4_x64.bin">Here</a>
+<br/><br/>
+Keep in mind, the flag is different on the server and sitting in different memory space. Brute Forcing this one is not necessary. Don't do it :)
+<br/><br/>
+<a href="https://github.com/longld/peda">p-p-p-p-p-p-p-p-p-peda</a></p>
+
 ## Sample Input:
 
 ```

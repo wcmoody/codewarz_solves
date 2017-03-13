@@ -1,5 +1,9 @@
 # Brute_my_pin_bro
 
+# Description
+
+<p>You buddy has written a program that accepts five digit pin codes for entry into the system. He thinks he is safe against bruteforcing as he only allows a limited(unknown) time frame in which guesses are allowed per connection. He only allows up to 22222 tries per connection. The pin code changes on each connection. He wants you to attempt to crack the pin code and retrieve the flag. Can you do it?</p>
+
 ## Sample Input:
 
 ```

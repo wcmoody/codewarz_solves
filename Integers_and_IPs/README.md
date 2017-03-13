@@ -1,5 +1,9 @@
 # Integers_and_IPs
 
+# Description
+
+<p>Did you know an ip address can be converted from an integer? Look through the provided sample file and find the appropriate integers to convert to its corresponding IP address</p>
+
 ## Sample Input:
 
 ```

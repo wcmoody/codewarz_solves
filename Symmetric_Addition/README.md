@@ -1,5 +1,11 @@
 # Symmetric_Addition
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Given a list of integers, write a program that creates and returns a NEW list with the same number of elements as the original list, such that each integer in the new list is the sum of itself and the location in the list that is symmetric to it. In other words, the first element is added to the last element, the second element is added to the second to last element, and so forth.
+</p>
+
 ## Sample Input:
 
 ```

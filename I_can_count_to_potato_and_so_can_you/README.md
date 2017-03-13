@@ -1,5 +1,11 @@
 # I_can_count_to_potato_and_so_can_you
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Given a single positive integer and a list of integers, find the integer in the list using the first integer as an index (not 0-indexed) and print the value of the next higher integer (greater than the integer found earlier) in the list. Wrap if necessary. If there are no higher integers, print nothing.
+</p>
+
 ## Sample Input:
 
 ```

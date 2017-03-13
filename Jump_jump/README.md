@@ -1,5 +1,9 @@
 # Jump_jump
 
+# Description
+
+<p>Can you correct the words in the input file? Seems that some of the letters in the words have jump'd around.</p>
+
 ## Sample Input:
 
 ```

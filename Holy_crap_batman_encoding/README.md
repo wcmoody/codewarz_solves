@@ -1,5 +1,14 @@
 # Holy_crap_batman_encoding
 
+# Description
+
+<p>Brute forcing is not necessary with this challenge. DO NOT BRUTE FORCE this challenge.
+<br/><br/>
+Example listener available at websandsocks.codewarz.ninja:9004<br/>
+(do not attempt to call nc in your solutions, that's not the right way to do this)<br/><br/>
+While investigating an incident on your network you seem to have stumbled on a communication listening socket from the intruders. Connect to the socket and break the encoding!
+</p>
+
 ## Sample Input:
 
 ```

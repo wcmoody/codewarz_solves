@@ -1,5 +1,12 @@
 # Find_random_stuffs
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Write a program which that receives two numbers with a space between them and will find all such numbers which are divisible by 7 but are not a multiple of 5, between those two numbers (both included).
+The numbers obtained should be printed in a comma-separated sequence on a single line.
+</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,12 @@
 # Flip_it_and_reverse_it
 
+# Description
+
+<p>Given a file with several words (some lines contain multiple words and some lines only
+contain one word). Print the words, one per line and reverse every other
+word following the first word.
+</p>
+
 ## Sample Input:
 
 ```

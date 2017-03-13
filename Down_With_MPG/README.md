@@ -1,5 +1,9 @@
 # Down_With_MPG
 
+# Description
+
+<p>Take the given files as input and print the car name and the associate miles per gallon using the information given. Following the given format and note that the longest vehicle name will never exceed the length of Highlander.</p>
+
 ## Sample Input:
 
 ```

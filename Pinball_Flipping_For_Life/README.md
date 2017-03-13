@@ -1,5 +1,11 @@
 # Pinball_Flipping_For_Life
 
+# Description
+
+<p>Someone has found some unique files on systems within their network. They seem to be an encoded communique of some sort and could correlate to a recent intrusion.
+Take the time to decode the messages and print the corresponding plain text.
+Download the sample file <a href="/static/downloads/pinball_output0.txt">here</a></p>
+
 ## Sample Input:
 
 ```

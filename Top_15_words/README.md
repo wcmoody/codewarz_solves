@@ -1,5 +1,9 @@
 # Top_15_words
 
+# Description
+
+<p>Process the text file and print the most common 15 words. The common words must be in the dictionary(<a href="/faq">FAQ #14</a>). Pay attention to the sorting with common values.</p>
+
 ## Sample Input:
 
 ```

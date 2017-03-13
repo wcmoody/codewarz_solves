@@ -1,5 +1,10 @@
 # Third_letter_is_a_charm
 
+# Description
+
+<p>These sentences have some issues with the words. Looks like a letter has been misplaced in each word (yeah, it's the same one everytime). Write a program to put the words back together the correct way.
+</p>
+
 ## Sample Input:
 
 ```

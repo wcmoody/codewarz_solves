@@ -1,5 +1,13 @@
 # Never_gonna_give_up_encoding
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+<strong>Admin Note:</strong> On the server the english dictionary file is located at /usr/share/dict/american-english<br/><br/>
+So your program can use that file path location in your uploaded program<br/><br/>
+This coder from the 1980's came up with own encoding program. Can you write a decoder to figure out the words he's trying to encode? It might be of help if you check to see if the words exist in a dictionary <a href="https://codewarz.ninja/static/downloads/american-english.txt">(/usr/share/dict/american-english)</a> as either lower case and possibly capitalized words.
+</p>
+
 ## Sample Input:
 
 ```

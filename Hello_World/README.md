@@ -1,5 +1,11 @@
 # Hello_World
 
+# Description
+
+<p>Print 'Hello, World!'. This problem is only to help guide you through how this whole thing works.<br/>**protip** If you're sending a script, don't forget your shebang!<br/>
+<br/>EX:
+</p>
+
 ## Sample Input:
 
 ```

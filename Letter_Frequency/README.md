@@ -1,5 +1,12 @@
 # Letter_Frequency
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Your program should (excluding all non-alphabetic characters) display two lists, the first containing the set of unique letters in the order that it appears in the text, and the second representing the respective counts of each letter in the message. Input files spanning multiple lines should all be considered part of the same data-set, ie; your program should output the total letter counts for every line in the file just once (not for each line).
+<br/><br/>
+</p>
+
 ## Sample Input:
 
 ```

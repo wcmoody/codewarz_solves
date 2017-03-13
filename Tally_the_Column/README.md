@@ -1,5 +1,10 @@
 # Tally_the_Column
 
+# Description
+
+<p>For this problem you need to add each column of the input csv, comma separated value, file and add each column ensuring that you avoid the input that cannot be added to the total. Once you are complete, print the total of each column in csv format as indicated below.
+</p>
+
 ## Sample Input:
 
 ```

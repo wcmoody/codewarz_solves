@@ -1,5 +1,13 @@
 # ASCII_stuffs_part_duex
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Luke Jr has been sending encoded messages to the Russians concerning a bug he introduced into Bitcoin Core. Decode the message and save the world from financial collapse!
+<br/><br/>
+Much like the original ascii_stuffs challenge, every character is needed and nothing extends past the basic ascii table.
+</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,10 @@
 # Confucius_grammar
 
+# Description
+
+<p>This silly chinese teacher drank a little too much baijiu while typing up some of his famous quotes. While typing his quotes he seemed to capitalize a lot more than he should have. Can you correct his sentences to match the example output below? You do not need to worry about capitalizing proper nouns, just the sentences.
+</p>
+
 ## Sample Input:
 
 ```

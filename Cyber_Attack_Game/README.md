@@ -1,5 +1,9 @@
 # Cyber_Attack_Game
 
+# Description
+
+<p>This guy (also known as funtimes) developed his own custom game with various cyber attacks. Certain cyber attacks are more powerful than others, so it wins when compared to another type of attack. Given the example data and output, can you figure out the pattern and primacy and recreate his scoring engine based on an input file being fed into your program. It also appears that if a player doesn't give a correct attack type, or if a player wins, all subsequent plays for that round do not matter.</p>
+
 ## Sample Input:
 
 ```

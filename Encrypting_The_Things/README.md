@@ -1,5 +1,9 @@
 # Encrypting_The_Things
 
+# Description
+
+<p>Come on over to the party and figure out how our service encrypts all the things.</p>
+
 ## Sample Input:
 
 ```

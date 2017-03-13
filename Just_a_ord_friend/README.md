@@ -1,5 +1,9 @@
 # Just_a_ord_friend
 
+# Description
+
+<p>While taking a college programming class, your instructor just taught you about ordinal values. You need to take the sample file and add up the total sum of ordinal values of characters upper and lowercase, but not anything else.</p>
+
 ## Sample Input:
 
 ```

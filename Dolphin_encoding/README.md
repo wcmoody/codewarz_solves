@@ -1,5 +1,10 @@
 # Dolphin_encoding
 
+# Description
+
+<p>So there is this Dolphin name flipper, he wanted to come up with his own custom data encoding so he can sneak data out of the network without being detected. Figure out the encoding and print the plain-text.
+</p>
+
 ## Sample Input:
 
 ```

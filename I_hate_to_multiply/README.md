@@ -1,5 +1,11 @@
 # I_hate_to_multiply
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+So the child you're mentoring has asked you to help them study their multiplication tables. You thought it would be a good idea to write a program to automagically print out all of the corresponding numbers to the highest number they gave you on the tables. Look at the example below and be certain to follow the exact formatting of the expected output.
+</p>
+
 ## Sample Input:
 
 ```

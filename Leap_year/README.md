@@ -1,5 +1,9 @@
 # Leap_year
 
+# Description
+
+<p>Given an input file file with a combination of single years and year ranges, print the year and True or False if it is a leap year.</p>
+
 ## Sample Input:
 
 ```

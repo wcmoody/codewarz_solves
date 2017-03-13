@@ -1,5 +1,11 @@
 # ASCII_stuffs
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Given a bunch of hexadecimal digits, return a string that is made from their ASCII characters.
+</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,11 @@
 # White_socks_with_boots
 
+# Description
+
+<p>Connect to the server, it'll give you a flag!<br/>
+<em>Test server located at websandsocks.codewarz.ninja:9005</em>
+</p>
+
 ## Sample Input:
 
 ```

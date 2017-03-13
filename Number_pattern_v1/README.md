@@ -1,5 +1,10 @@
 # Number_pattern_v1
 
+# Description
+
+<p>Given the starting number of "7" and the resulting pattern of "10 11 14 17 24". Can you figure out the other patterns if we give you the starting number?
+Think simple...</p>
+
 ## Sample Input:
 
 ```

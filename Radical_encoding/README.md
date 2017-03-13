@@ -1,5 +1,10 @@
 # Radical_encoding
 
+# Description
+
+<p>Just decrypt the message.
+</p>
+
 ## Sample Input:
 
 ```

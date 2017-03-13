@@ -1,5 +1,10 @@
 # Split_Hex
 
+# Description
+
+<p>It appears this guy wrote a broken hex generator, instead of printing the hex representation as normal it's split on two lines. Can you stick the lines together and decode the hex?
+</p>
+
 ## Sample Input:
 
 ```

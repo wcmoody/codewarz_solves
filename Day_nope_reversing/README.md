@@ -1,5 +1,13 @@
 # Day_nope_reversing
 
+# Description
+
+<p>Reverse engineer the algorithm. Then implement it on your own!
+<br/><br/>
+Example Bins: <a href="/static/downloads/day_nope_x32.bin">x32</a> and <a href="/static/downloads/day_nope_x64.bin">x64</a>
+<br/>
+<a href="https://retdec.com/decompilation/" target="_new">&lt;3 retdec</a></p>
+
 ## Sample Input:
 
 ```

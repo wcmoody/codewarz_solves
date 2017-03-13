@@ -1,5 +1,9 @@
 # Max_the_Snax
 
+# Description
+
+<p>The file will contain several lines with 5 numbers per line. Take each line and use the four standard arithmetic operators (+ , -, *, /) and using each only once, produce the largest value following the PEMDAS rules. Once you find the value and operator order then print the value, rounded to two decimal places and ordered operators using the format indicated below.</p>
+
 ## Sample Input:
 
 ```

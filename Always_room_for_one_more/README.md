@@ -1,5 +1,11 @@
 # Always_room_for_one_more
 
+# Description
+
+<p>Connect to the server and follow the directions. Perform to standard and you will get a flag!<br/>
+<em>Test server located at websandsocks.codewarz.ninja:9008</em>
+</p>
+
 ## Sample Input:
 
 ```

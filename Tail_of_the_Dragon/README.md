@@ -1,5 +1,12 @@
 # Tail_of_the_Dragon
 
+# Description
+
+<p>One of your peers has created some files with encoded messages...
+See if you can find the flags within the files!
+HINT: Focus on the last letter...
+</p>
+
 ## Sample Input:
 
 ```

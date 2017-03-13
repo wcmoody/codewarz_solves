@@ -1,5 +1,11 @@
 # Socket_to_me_again
 
+# Description
+
+<p>Connect to the server and get your key. The first two were more simple :(<br/>
+<em>Test server located at websandsocks.codewarz.ninja:9007</em>
+</p>
+
 ## Sample Input:
 
 ```

@@ -1,5 +1,9 @@
 # Hasty_IP_Calc
 
+# Description
+
+<p>A sysadmin in this shop has a bunch of config files with a IP address/cidr notation and gateway address per line. Can you help validate the gateway address is correct given the network address space? Also make sure to follow the output format as seen from the example.</p>
+
 ## Sample Input:
 
 ```

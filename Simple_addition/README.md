@@ -1,5 +1,10 @@
 # Simple_addition
 
+# Description
+
+<p>Simply add the numbers together on each line and print the sum of the numbers.
+</p>
+
 ## Sample Input:
 
 ```

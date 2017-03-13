@@ -1,5 +1,11 @@
 # Evenly_Divisible
 
+# Description
+
+<p>The path to the input file will be passed into your program as a command line argument when your program is called.<br/><br/>
+Given two <em>numbers</em> (which can be within the set of real numbers), return all the whole numbers between 1 and (and including) the second number that are evenly divisible by the first number.
+</p>
+
 ## Sample Input:
 
 ```

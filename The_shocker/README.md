@@ -1,5 +1,13 @@
 # The_shocker
 
+# Description
+
+<p>Example data available at websandsocks.codewarz.ninja:9002<br/>
+(do not attempt to call nc in your solutions, that's not the right way to do this)<br/>
+Brute forcing is not necessary with this challenge. DO NOT BRUTE FORCE this challenge.
+<br/><br/>
+Electric_maths is back, but now you need to solve multiple math problems in order to get your key. Do you even carry the one, bro?</p>
+
 ## Sample Input:
 
 ```

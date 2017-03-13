@@ -1,5 +1,10 @@
 # Argumentative
 
+# Description
+
+<p>Tutorial Challenge. <br/>
+Print all of the arguments given to your app (but not your app!)</p>
+
 ## Sample Input:
 
 ```
