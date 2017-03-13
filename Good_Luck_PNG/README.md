@@ -7,7 +7,7 @@ Take a good, hard look at the png file and see if you can extract the flag they 
 <br/>
 Good luck!
 <br/>
-<em>Example Image Found Here: <a href="/static/downloads/good_luck0.png">good_luck0.png</a></em>
+<em>Example Image Found Here: <a href="good_luck0.png">good_luck0.png</a></em>
 </p>
 
 ## Sample Input:

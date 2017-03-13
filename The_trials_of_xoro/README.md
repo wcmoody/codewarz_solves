@@ -6,7 +6,7 @@
 Decrypt the message and print the decrypted message in the format below.
 Good luck!
 <strong>Note:</strong> Your solve should work and print the same message for either the 2 round or the 4 round.
-Download the two round <a href="/static/downloads/trials_sample1_2.txt">here</a> or the four round <a href="/static/downloads/trials_sample1_4.txt">here</a></p>
+Download the two round <a href="trials_sample1_2.txt">here</a> or the four round <a href="/static/downloads/trials_sample1_4.txt">here</a></p>
 
 ## Sample Input:
 

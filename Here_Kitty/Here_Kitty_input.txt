@@ -1,0 +1,9 @@
+$ cat /path/to/somefile.txt
+this is a fil
+it has
+multiple lines that
+have different things on them
+as you
+can
+s
+Yay!!! Yay!!

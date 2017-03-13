@@ -1,0 +1,21 @@
+$ cat samplefil
+1e 
+ ee ee ee ee ee 
+ ee ec ee ee ee ee e1
+cc ec
+i ei ei ei
+s s
+ce 
+cc ss
+11 ei ec c
+ci ec
+cs ci
+ie c
+ic ii
+ii ii
+is ic
+s
+sc
+si
+ss
+1 cc

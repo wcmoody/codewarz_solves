@@ -3,7 +3,7 @@
 # Description
 
 <p>Hot on the trail of the script-kiddies that are all up in your network you pull this pcap off of the wire. Something seems off about the traffic. Can you programmatically find the flag in the pcap?
-<br/>Download the sample file <a href="/static/downloads/network_awkwardness_v3.pcap">here.</a></p>
+<br/>Download the sample file <a href="network_awkwardness_v3.pcap">here.</a></p>
 
 ## Sample Input:
 

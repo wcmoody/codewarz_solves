@@ -3,7 +3,7 @@
 # Description
 
 <p>The evil haXORs are on to our snooping. They've started encrypting their comms. I still think they're pretty low grade so you should be able to decrypt their secret messages.<br/>
-<em>Example pcap <a href="/static/downloads/enc_chat_1.pcap">here</a></em>
+<em>Example pcap <a href="enc_chat_1.pcap">here</a></em>
 </p>
 
 ## Sample Input:

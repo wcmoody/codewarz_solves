@@ -5,7 +5,7 @@
 <p>Digging deeper into the network traffic, you find this pcap that seems to have meaningful data, somehow...
 Can you decode the flag from the pcap?
 <br/>
-<em>Download the sample file <a href="/static/downloads/tftp_say_what.pcap">here.</a></em></p>
+<em>Download the sample file <a href="tftp_say_what.pcap">here.</a></em></p>
 
 ## Sample Input:
 

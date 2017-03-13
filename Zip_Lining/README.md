@@ -3,7 +3,7 @@
 # Description
 
 <p>You remember gzipping a file and sending it to a friend to look at. He is calling and indicating that he cannot open them to read the super awesome flag inside. Fix the file, decompress it, and read the contents. If you need it /tmp is writable for this challenge.<br/><br/>
-Example file found <a href="/static/downloads/zip_line1.txt">here</a></p>
+Example file found <a href="zip_line1.txt">here</a></p>
 
 ## Sample Input:
 

@@ -5,7 +5,7 @@
 <p>During a forensic examination, we recovered what we believe to be configuration files for the "NAMBLA" malware to communicate with its C2 node(s). Previous versions of this malware used plain-text config files but these appear to be encrypted. We have no reason to believe they they changed the formatting of the config, it's just encrypted now. Our intel guys say that the crew responsible for "NAMBLA" tend to just use dictionary words padded out with some sort of standard 'sentence ending' punctuation for their keys (if needed).<br/>
 For reference, an older "NAMBLA" configuration file can be found <a href="/static/downloads/nambla.txt">Here</a><br/>
 <br/>
-Example encrypted file can be found <a href="/static/downloads/input_data_1.enc">Here</a></p>
+Example encrypted file can be found <a href="input_data_1.enc">Here</a></p>
 
 ## Sample Input:
 

@@ -1,0 +1,2 @@
+$ cat /path/to/somefile.txt
+byko rasu rati rago denoll rati byfy rasu bypo bygo denoll byni rago denoll byfy rasu rago deAn

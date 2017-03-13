@@ -1,0 +1,15 @@
+$ cat sample.txt
+this is one lin
+
+this
+is also
+just on
+lin
+
+maybe we should try something different
+
+ha
+ha
+haha
+
+

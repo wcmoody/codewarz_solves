@@ -1,0 +1,6 @@
+$ cat /path/to/somefile.txt
+a
+dwo
+blejum
+thea
+nana

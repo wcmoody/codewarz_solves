@@ -1,0 +1,2 @@
+$ cat /path/to/somefile.txt
+9

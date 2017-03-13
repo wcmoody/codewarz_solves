@@ -2,7 +2,7 @@
 
 # Description
 
-<p>Here's some binaries that will print out parts of the flag. Reassemble them. Print the flag. <a href="/static/downloads/humpty_hump.tar.gz">Example files</a></p>
+<p>Here's some binaries that will print out parts of the flag. Reassemble them. Print the flag. <a href="humpty_hump.tar.gz">Example files</a></p>
 
 ## Sample Input:
 

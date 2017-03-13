@@ -3,7 +3,7 @@
 # Description
 
 <p>Create a histogram from the apache log excerpts based on <strong>valid IPv4 ip-addresses</strong>. Also it might help to know that IP address can also appear in more than one place. They can be at the beginning of each line, and also in the middle as a requested url. But we only care about the ones at the beginning of each line.
-<br/><br/><a href="/static/downloads/apache_log_parser_data1.txt">download the sample data file here</a></p>
+<br/><br/><a href="apache_log_parser_data1.txt">download the sample data file here</a></p>
 
 ## Sample Input:
 

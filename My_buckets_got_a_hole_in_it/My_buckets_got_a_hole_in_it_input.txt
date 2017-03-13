@@ -1,0 +1,7 @@
+$ cat /path/to/somefile.txt
+12
+87
+55
+32
+99
+85

@@ -1,0 +1,2 @@
+$ cat samplefil
+7

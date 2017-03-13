@@ -5,7 +5,7 @@
 <p>You have found some encrypted messages and you believe that each message is encrypted with a single character xor. Figure out a way to determine the original message and only print the plain text, readable message in the format below and nothing else. Remember that you have access to /usr/share/dict/american-english.<br/>
 <em>You must figure out the key on the fly!</em><br/>
 <br/>
-Download file <a href="/static/downloads/last_friday_night_data1.txt">Here</a>
+Download file <a href="last_friday_night_data1.txt">Here</a>
 </p>
 
 ## Sample Input:

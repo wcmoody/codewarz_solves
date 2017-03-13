@@ -1,0 +1,16 @@
+$ cat non_pep0.py
+#!/usr/bin/env python3
+
+import re, string
+import copy
+
+def long_func():  # this line is not cra
+   print('This is totally a legit line for Python. It does violate the pep8 standard....HOW DARE YOU!!!')
+
+def main(): #this line is cra
+    print ('this is not the pep you are looking for!')
+    long_func()
+
+#comments are cool and probably mean something only if they are readable and stuffs
+if __name__ == '__main__':   
+   main()

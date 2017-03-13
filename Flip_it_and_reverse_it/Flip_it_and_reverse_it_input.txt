@@ -1,0 +1,12 @@
+$ cat /path/to/somefile.txt
+this
+is
+something
+something
+you
+a
+used
+to
+and
+nothing
+ls

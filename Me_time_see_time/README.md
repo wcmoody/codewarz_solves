@@ -2,7 +2,7 @@
 
 # Description
 
-<p>You need to develop a small tool that looks at all the files in a directory with no subdirectories and prints out the files in order of the time they were last modified with the latest modified files on the top of the list. The file names will never exceed the initial column width. The input to your tool will be the path to the directory. Download the example data <a href="/static/downloads/me_time_see_time_data1_tar.gz">Here</a>
+<p>You need to develop a small tool that looks at all the files in a directory with no subdirectories and prints out the files in order of the time they were last modified with the latest modified files on the top of the list. The file names will never exceed the initial column width. The input to your tool will be the path to the directory. Download the example data <a href="me_time_see_time_data1_tar.gz">Here</a>
 </p>
 
 ## Sample Input:

@@ -1,0 +1,4 @@
+$ cat samplefil
+ siht
+ a si
+!enil tset

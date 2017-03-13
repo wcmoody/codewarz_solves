@@ -2,7 +2,7 @@
 
 # Description
 
-<p>It seems that the current batch of script-kiddies stomping around your network like to exfil their data in aesthetically pleasing way. You believe they have encoded some info in this png. Decode the image and print the flag that you find. <br/><br/><em>Example Image: <a href="/static/downloads/test_out.png">test_out.png</a></em></p>
+<p>It seems that the current batch of script-kiddies stomping around your network like to exfil their data in aesthetically pleasing way. You believe they have encoded some info in this png. Decode the image and print the flag that you find. <br/><br/><em>Example Image: <a href="test_out.png">test_out.png</a></em></p>
 
 ## Sample Input:
 

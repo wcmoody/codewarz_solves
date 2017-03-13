@@ -3,7 +3,7 @@
 # Description
 
 <p>After reading some open source reports out on the interwebs, the reports listed some hashes of files know to be tied to a particular dumb user who likes to carry his expensive macbook in a hobobag. Can you implement a way of finding the files if we give you the hash?<br/><br/>
-Example files found <a href="/static/downloads/hobo_hashing_files.tgz">here</a> and <a href="/static/downloads/hobo_hashes.txt">here</a></p>
+Example files found <a href="hobo_hashing_files.tgz">here</a> and <a href="/static/downloads/hobo_hashes.txt">here</a></p>
 
 ## Sample Input:
 

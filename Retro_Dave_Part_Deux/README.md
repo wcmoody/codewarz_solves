@@ -3,7 +3,7 @@
 # Description
 
 <p>Retro Dave is coming off of his Tab induced sugar-high and realized that his Game Boy and Game Boy color games are also separated by system and alphabetized, not cool mom... He likes to put the two collections into one and still sort them by release date and then by title, indicate which system they belong to in your output. Be sure to remove all titles that do not have a release date. Sit down and take a minute to crank out a quick script to help Retro Dave fix his collection while he sits in the corner and moves from Tab to his cache of Bawls drinks (how much punishment can his heart take?). Follow the format in the provided output.<br/><br/>
-Example files found <a href="/static/downloads/GameBoyShort.csv">here</a> and <a href="/static/downloads/GameBoyColorShort.csv">here</a></p>
+Example files found <a href="GameBoyShort.csv">here</a> and <a href="/static/downloads/GameBoyColorShort.csv">here</a></p>
 
 ## Sample Input:
 

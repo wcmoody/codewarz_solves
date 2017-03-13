@@ -4,7 +4,7 @@
 
 <p>This is another network capture from the current network that is in shambles.
 Can you decode the flag from the pcap?<br/>
-<em>Download the sample file <a href="/static/downloads/size_does_matter_1.pcap">here.</a></em></p>
+<em>Download the sample file <a href="size_does_matter_1.pcap">here.</a></em></p>
 
 ## Sample Input:
 
