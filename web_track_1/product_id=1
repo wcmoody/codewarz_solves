@@ -1,0 +1,10 @@
+HTTP/1.1 302 FOUND
+Server: nginx/1.14.0 (Ubuntu)
+Date: Sat, 20 Oct 2018 18:04:01 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 207
+Location: http://web-track-2.runcode.ninja/None
+Connection: keep-alive
+Vary: Cookie
+Set-Cookie: session=eyJfZmxhc2hlcyI6W3siIHQiOlsiZGFuZ2VyIiwiRmFpbGVkIHRvIGFkZCBpdGVtIHRvIGNhcnQiXX1dLCJjYXJ0IjpbXX0.Dqz_kQ.j9ivDJ5MD0MomiZP714-usrHXEA; HttpOnly; Path=/
+
